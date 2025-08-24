@@ -1,0 +1,8 @@
+.idea\
+*.idea
+.idea
+.gitattributes
+*.gitattributes
+build/
+dist/
+*.spec

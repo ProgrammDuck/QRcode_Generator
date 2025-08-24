@@ -2,9 +2,6 @@ import qrcode
 from qrcode.main import QRCode
 import re
 from colour import Color
-import tkinter
-
-
 
 def is_hex_color(hexcolor):
     hex_color_pattern = r'^#([0-9a-fA-F]{6}|[0-9a-fA-F]{3})$'
