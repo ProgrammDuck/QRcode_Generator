@@ -11,7 +11,7 @@
         <pre><code>git clone https://github.com/ProgrammDuck/QRcode_Generator.git</code></pre>
     </li>
     <li>Change Directory
-        <pre><code>cd QRcode_Generator\\</code></pre>
+        <pre><code>cd QRcode_Generator/</code></pre>
     </li>
     <li>Start programm
         <pre><code>py main.py</code></pre>
