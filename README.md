@@ -6,32 +6,16 @@
 </div>
 <h2 align="center">🚀 Install</h2>
 
-<h3 align="center">📄 From sources</h3>
 <ol>
     <li>Clone repository:
-        <pre><code>git clone https://github.com/ProgrammDuck/PasswordGenerator.git</code></pre>
+        <pre><code>git clone https://github.com/ProgrammDuck/QRcode_Generator.git</code></pre>
     </li>
     <li>Change Directory
-        <pre><code>cd PasswordGenerator\\</code></pre>
+        <pre><code>cd QRcode_Generator\\</code></pre>
     </li>
     <li>Start programm
         <pre><code>py main.py</code></pre>
     </li>
-</ol>
-
-<h3 align="center">⚡ From releases</h3>
-<ol>
-    <li>Go to the <a href="https://github.com/ProgrammDuck/PasswordGenerator/releases">Releases</a> page on GitHub</li>
-    <li>Download the latest release for your system (.exe for Windows or archive for other OS).</li>
-    <li>Extract (if it's an archive) and run the .exe file.</li>
-</ol>
-
-<h2 align="center">📝 Work example</h2>
-<ol>
-    <li>EuREsjpQDi</li>
-    <li>4082307491</li>
-    <li>:\!'%[*'&lt;</li>
-    <li><code>`#KIy6`rKmR</code></li>
 </ol>
 
 
